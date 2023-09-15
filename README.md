@@ -1,10 +1,7 @@
 # WayPick-Pick-Your-Destination
 [Visit The Website](https://navigation.waypick.tech/)
+![Scan The QR Code](https://github.com/Geetika2018/WayPick-Pick-Your-Destination/blob/main/QR%20CODE.jpeg)
 
-![w1.jpeg](https://github.com/Geetika2018/WayPick-Pick-Your-Destination/blob/main/w1.jpeg)
-![w5.jpeg](https://github.com/Geetika2018/WayPick-Pick-Your-Destination/blob/main/w5.jpeg)
-![w6.jpeg](https://github.com/Geetika2018/WayPick-Pick-Your-Destination/blob/main/w6.jpeg)
-![w8.jpeg](https://github.com/Geetika2018/WayPick-Pick-Your-Destination/blob/main/w8.jpeg)
 
 # Feature and Introduction: 
 <p>1. This is navigation based website, for a particular organization.<br>
